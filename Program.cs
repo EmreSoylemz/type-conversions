@@ -12,9 +12,14 @@ namespace type_conversions
             short c= 10;
 
             int d = a + b + c;
+
             Console.WriteLine("d:" + d);
 
             long h = d;
+            Console.WriteLine("h:" + h);
+
+            
+
             
             //Explicit Conversions
         }
